@@ -1,0 +1,4 @@
+__pycache__/
+*.pth
+*.log
+.DS_Store
