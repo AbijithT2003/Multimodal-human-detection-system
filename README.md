@@ -1,12 +1,32 @@
-- 👋 Hi, I’m @AbijithT2003
-- 👀 I’m interested in c/cpp and verilog coding...
-- 🌱 I’m currently doing Bachelor in TECH in electronics and communication
-- 💞️ I’m looking to collaborate on literraly anything related to c/verilog
-- 📫 How to reach me stinsonb380@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: fk pronouns
+# Multimodal Human Detection System using Deep Learning Methods 🚀
 
-<!---
-AbijithT2003/AbijithT2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-Framework-orange?logo=pytorch)
+![Transformer](https://img.shields.io/badge/Model-DETR-brightgreen?logo=transformer)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+## 🔍 Overview
+
+This project presents a **Transformer-based human detection system** that integrates **RGB, Thermal, and Infrared (IR) imaging** for robust detection in diverse environmental conditions. Built using the DEtection TRansformer (DETR) model, the system improves detection accuracy in scenarios such as low-light, occlusion, and cluttered backgrounds.
+
+### 👨‍💻 Developed By
+- **Abijith T**
+- Agney Suresh  
+- Athulkrishna Dhananjayan  
+*(Under the guidance of Dr. Sreelekshmi P S, Assistant Professor, ECE Dept., NSS College of Engineering)*
+
+---
+
+## 🧠 Key Features
+
+- 🔁 **Multimodal Input:** RGB, Thermal, and Infrared imaging
+- ⚙️ **Advanced Preprocessing:** CLAHE, Histogram Equalization, Gaussian Filtering
+- 🧭 **Object Detection with DETR:** End-to-end transformer model with self-attention
+- 🔧 **Hyperparameter Tuning:** Implemented using Optuna framework
+- 📊 **Model Evaluation:** mAP, IoU, GIoU, training/validation curves
+- 🆚 **Comparative Analysis:** DETR vs CNN-based models (YOLO, Faster R-CNN)
+
+---
+
+## 📁 Project Structure
+
