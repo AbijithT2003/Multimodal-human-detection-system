@@ -32,7 +32,6 @@ This project presents a **Transformer-based human detection system** that integr
 │   ├── RGB/
 │   ├── Thermal/
 │   ├── IR/
-│   └── annotations/ (COCO Format)
 ├── src/
 │   ├── preprocessing.py
 │   ├── detr_model.py
