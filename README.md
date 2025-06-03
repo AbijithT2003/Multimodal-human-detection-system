@@ -52,7 +52,7 @@ This project presents a **Transformer-based human detection system** that integr
 
 | Raw Image | Preprocessed | Detection Output |
 |-----------|--------------|------------------|
-| ![rgb](results/sample_rgb.png) | ![clahe](results/sample_clahe.png) | ![detection](results/sample_detection.png) |
+| ![rgb](Dataset/test/WhatsApp-Image-2025-05-25-at-1_06_35-PM_jpeg.rf.c87a83e6a56ceab072e96a21a69c811e.jpg) | ![clahe](results/sample_clahe.png) | ![detection](results/sample_detection.png) |
 
 ## 🧰 Tech Stack
 
