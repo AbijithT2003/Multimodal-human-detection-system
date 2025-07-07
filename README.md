@@ -86,7 +86,6 @@ This project presents a **Transformer-based human detection system** that integr
 |       | Thermal     | 0.815 | 0.870 | 0.770 | 0.735 | 0.805 | 0.820 |
 |       | IR          | 0.800 | 0.850 | 0.755 | 0.710 | 0.785 | 0.810 |
 |       | Multimodal  | 0.905 | 0.932 | 0.865 | 0.845 | 0.887 | 0.875 |
-|-------|-------------|-------|-------|-------|-------|-------|-------|
 | DETR  | RGB         | 0.88  | 0.92  | 0.85  | 0.80  | 0.87  | 0.86  |
 |       | Thermal     | 0.83  | 0.88  | 0.79  | 0.75  | 0.82  | 0.84  |
 |       | IR          | 0.81  | 0.86  | 0.77  | 0.72  | 0.80  | 0.83  |
@@ -104,7 +103,7 @@ This project presents a **Transformer-based human detection system** that integr
 | 5     | 0.4721      | \(4.63 \times 10^{-5}\) | \(9.74 \times 10^{-6}\) | \(1.68 \times 10^{-5}\) |
 | 6     | 1.1940      | \(1.17 \times 10^{-5}\) | \(5.83 \times 10^{-5}\) | \(7.77 \times 10^{-5}\) |
 
-## 📦 Installation
+## 📦 How To Run
 
 ```bash
 open in Google Colab
