@@ -118,9 +118,9 @@ run the program on Colab
 - [Dataset 1: Human Detection Based On Infrared Images In Forestry Environments](https://archive.cs.umu.se/papers/2016-ThermalHumanDetection-AOstovar/)
 - [Dataset 2: OpenThermalPose Dataset](https://github.com/Geng-J/OpenThermalPose)
 
-## 🔗 Connect with Me
+## 🔗 Connect with us
 
-📫 [abijitht.dev@gmail.com](mailto:abijitht.dev@gmail.com)  
+📫 [abijith-T](mailto:abijitht1702@gmail.com)--[Agney suresh](mailto:agney2222@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/abijitht/)  
 📸 [Instagram](https://instagram.com/abijith_t)  
 🌐 [Portfolio](https://abijitht2003.github.io/Portfolio_T/)
